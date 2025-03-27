@@ -16,7 +16,7 @@ Este proyecto es una galería de imágenes interactiva con funcionalidades adici
 * **Modal de Pantalla Completa:** Visualización ampliada de imágenes al hacer clic.
 * **Reproducción de Música con Spotify:** Integración del reproductor de Spotify para reproducir música de fondo durante la visualización de imágenes.
 
-## Instrucciones para Clonar y Probar el Proyecto
+## Instrucciones para Probar el Proyecto
 
 1.  **Descargar el proyecto desde GitHub:**
     * Ve a esta página: [https://github.com/Elmaciiiii/Galeria_de_Imagenes.git](https://github.com/Elmaciiiii/Galeria_de_Imagenes.git)
